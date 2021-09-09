@@ -46,6 +46,8 @@ Can the Brain Do Backpropagation? — Exact Implementation of Backpropagation in
 
 Contrastive Similarity Matching for Supervised Learning [[arXiv]](https://arxiv.org/abs/2002.10378)
 
+Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future [[arXiv]](https://arxiv.org/abs/2001.07092)
+
 Differentially Private Deep Learning with Direct Feedback Alignment [[arXiv]](https://arxiv.org/abs/2010.03701)
 
 Direct Feedback Alignment Scales to Modern Deep Learning Tasks and Architectures [[arXiv]](https://arxiv.org/abs/2006.12878)
@@ -80,6 +82,8 @@ Efficient Convolutional Neural Network Training with Direct Feedback Alignment [
 
 Learning without feedback: Fixed random learning signals allow for feedforward training of deep neural networks [[arXiv]](https://arxiv.org/abs/1909.01311)
 
+Recurrence is required to capture the representational dynamics of the human visual system [[PDF]](https://arxiv-export-lb.library.cornell.edu/pdf/1903.05946)
+
 Principled Training of Neural Networks with Direct Feedback Alignment [[arXiv]](https://arxiv.org/abs/1906.04554)
 
 Putting An End to End-to-End: Gradient-Isolated Learning of Representations [[arXiv]](https://arxiv.org/abs/1905.11786)
@@ -97,6 +101,10 @@ Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and
 Biologically Motivated Algorithms for Propagating Local Target Representations [[arXiv]](https://arxiv.org/abs/1805.11703)
 
 Biologically-plausible learning algorithms can scale to large datasets [[arXiv]](https://arxiv.org/abs/1811.03567)
+
+Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like? [[bioRxiv]](https://www.biorxiv.org/content/10.1101/407007v1)
+
+CORnet: Modeling the Neural Mechanisms of Core Object Recognition [[PDF]](https://www.biorxiv.org/content/10.1101/408385v1.full.pdf)
 
 Conducting Credit Assignment by Aligning Local Representations [[arXiv]](https://arxiv.org/abs/1803.01834)
 
@@ -142,7 +150,13 @@ Random synaptic feedback weights support error backpropagation for deep learning
 
 Toward an Integration of Deep Learning and Neuroscience [[arXiv]](https://arxiv.org/abs/1606.03813)
 
+Using goal-driven deep learning models to understand sensory cortex [[Nature]](https://www.nature.com/articles/nn.4244)
+
 ## 2015
+
+Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing. [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2015/10/26/029876.full.pdf)
+
+Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream [[arXiv]](https://arxiv.org/abs/1411.6422)
 
 How Important is Weight Symmetry in Backpropagation? [[arXiv]](https://arxiv.org/abs/1510.05067)
 
@@ -152,11 +166,15 @@ Towards Biologically Plausible Deep Learning [[arXiv]](https://arxiv.org/abs/150
 
 ## 2014
 
+Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation [[PDF]](http://www.mrc-cbu.cam.ac.uk/wp-content/uploads/2014/10/Khaligh-Razavi_Kriegeskorte_PlosComp-inPress-.pdf)
+
 Difference Target Propagation [[arXiv]](https://arxiv.org/abs/1412.7525)
 
 How Auto-Encoders Could Provide Credit Assignment in Deep Networks via Target Propagation [[arXiv]](https://arxiv.org/abs/1407.7906)
 
 Kickback cuts Backprop's red-tape: Biologically plausible credit assignment in neural networks [[arXiv]](https://arxiv.org/abs/1411.6191)
+
+Performance-optimized hierarchical models predict neural responses in higher visual cortex [[PDF]](https://www.pnas.org/content/pnas/111/23/8619.full.pdf) 
 
 Random feedback weights support learning in deep neural networks [[arXiv]](https://arxiv.org/abs/1411.0247)
 
